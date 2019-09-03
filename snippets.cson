@@ -1,0 +1,13 @@
+'.text.md':
+    'Yellow':
+      'prefix': 'yellow'
+      'body': 'style="color:yellow"'
+    'Blue':
+      'prefix': 'blue'
+      'body': 'style="color:blue"'
+    'Red':
+      'prefix': 'red'
+      'body': 'style="color:red"'
+    'Alert':
+      'prefix': 'alert'
+      'body': '<div class="alert">$1</div>'

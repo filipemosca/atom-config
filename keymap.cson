@@ -1,0 +1,5 @@
+'atom-text-editor':
+  'ctrl-1': 'user:wrap-selection-red'
+  'ctrl-2': 'user:wrap-selection-orange'
+  'ctrl-3': 'user:wrap-selection-green'
+  'ctrl-4': 'user:wrap-selection-blue'
